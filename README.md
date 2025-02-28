@@ -1,1 +1,1 @@
-A website that provide traditional Vietnamese recipes
+A website that provides traditional Vietnamese recipes
